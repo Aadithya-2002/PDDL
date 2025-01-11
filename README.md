@@ -47,8 +47,8 @@ To run the PDDL files, you will need a PDDL planner. Follow the steps below:
 2. Clone this repository:
 
 ```bash
-git clone https://github.com/Aadithya-2002/PDDL.git
-cd PDDL
+git clone https://github.com/Aadithya-2002/Windfarm-Mission-Planning-Using-PDDL.git
+cd Windfarm-Mission-Planning-Using-PDDL
 ```
 3. Run the planner with the provided domain and problem files. For example:
 
